@@ -17,5 +17,5 @@ I have proven expertise in [multimedia storytelling](/), [journalistic reporting
 <br>
 <a href="http://facebook.com/stellarstudent"><i class="fa fa-facebook-square" aria-hidden="true"></i>Facebook</a>
 <br>
-<a href="http://linkedin.com/in/stellarstudent"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
+<a href="www.linkedin.com/in/hannah-soyer"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
 </p>

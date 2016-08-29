@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![logo](public/ada.jpg)
+![logo](public/ada.png)
 
 I'm a member of the University of Iowa [School of Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) Class of 2017.
 
